@@ -6,6 +6,9 @@ A simple, responsive **Library Management System webpage** built using a single 
 
 The webpage combines **HTML, CSS, and JavaScript** in index.html to create an interactive library dashboard.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/912f0c9a-c4fc-44b4-a328-77c04ee0d7ac" />
+
+
 ✨ Features
 ----------
 
